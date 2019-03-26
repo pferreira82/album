@@ -2,6 +2,7 @@
 import React, { Component } from 'react';
 import { ScrollView } from 'react-native';
 import axios from 'axios';
+// eslint-disable-next-line import/no-named-as-default
 import AlbumDetail from './AlbumDetail';
 
 class AlbumList extends Component {
